@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://zq58855371.github.io/zq58855371-ui",
+  "homepage": "https://zq58855371-ui.github.io/New-repository/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
